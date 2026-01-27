@@ -1,8 +1,12 @@
 # Hi there, I'm [ KENNY KELVIN ] 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines= Hi , AM KENNY KELVIN ;Problem+to+Solution+Architect;Turning+Bugs+into+Features; I PUT AURA IN EVERYTHING I DO" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Kenny+Kelvin;Problem+to+Solution+Architect;Turning+Bugs+into+Features;I+Put+Aura+In+Everything+I+Do"
+    alt="Typing SVG"
+  />
 </div>
+
 
 ---
 
