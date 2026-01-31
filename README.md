@@ -1,4 +1,4 @@
-# Hi there, I'm [ KENNY KELVIN ] 👋
+# Hi there, I'm  KENNY KELVIN  👋
 
 <div align="center">
   <img
@@ -15,7 +15,6 @@ I am a developer who views every codebase as a puzzle. I specialize in taking co
 
 * 🧠 **Problem Solver:** I translate abstract challenges into concrete code.
 * 🛠 **Multi-Stack:** Comfortable working across diverse environments and languages.
-* 🤖 **AI-Collaborative:** Partnering with **Gemini AI** to optimize algorithms and accelerate deployment.
 
 ---
 
@@ -28,11 +27,11 @@ I am a developer who views every codebase as a puzzle. I specialize in taking co
 
 ---
 
-### ⭐ Featured Project: [Project Name]
+### ⭐ Working on project : [RRA version 3]
 **The Problem-to-Solution Spotlight**
 > This project showcases the transition from a complex requirement to a high-performance application. By leveraging my experience in [Language, e.g., PHP or Node], I solved [Specific Problem].
 * **Impact:** Reduced processing time / Increased user engagement.
-* **Collaboration:** Gemini AI helped refine the data structures and edge-case handling.
+
 
 ---
 
