@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1d4ed8,100:36bcf7&height=260&text=ISHIMWE%20Kenny%20Kelvin&fontSize=58&fontColor=ffffff&animation=twinkling&desc=Software%20%26%20Hardware%20Engineer&descSize=24&descAlignY=72" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1d4ed8,100:36bcf7&height=260&text=Kenny%20Kelvin&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Software%20%26%20Hardware%20Engineer&descSize=24&descAlignY=72" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+%26+Hardware+Engineer;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+React;Embedded%3A+ESP32+%E2%80%A2+STM32+%E2%80%A2+Arduino;Open+to+remote+work+%F0%9F%8C%8D;Kigali%2C+Rwanda+%F0%9F%87%B7%F0%9F%87%BC" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+%26+Hardware+Engineer;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+React;Embedded%3A+ESP32+%E2%80%A2+STM32+%E2%80%A2+Arduino;Open+to+work%3A+remote+%26+on-site+%F0%9F%8C%8D;Kigali%2C+Rwanda+%F0%9F%87%B7%F0%9F%87%BC" alt="typing"/>
 
 <br/><br/>
 
@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/badge/📍_Kigali,_Rwanda-1d4ed8?style=flat-square"/>
 <img src="https://img.shields.io/badge/💻_Software_×_🔌_Hardware-1d4ed8?style=flat-square"/>
-<img src="https://img.shields.io/badge/🌍_Open_to_remote_work-36bcf7?style=flat-square"/>
+<img src="https://img.shields.io/badge/💼_Open_to_work_·_remote_%26_on--site-36bcf7?style=flat-square"/>
 
 </div>
 
