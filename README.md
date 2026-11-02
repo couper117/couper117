@@ -51,13 +51,9 @@
 
 <div align="center">
 
-<a href="https://github.com/couper117/platform"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=couper117&repo=platform&theme=tokyonight&hide_border=true" alt="RwaSport"/></a>
-<a href="https://github.com/couper117/tembera-rwanda"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=couper117&repo=tembera-rwanda&theme=tokyonight&hide_border=true" alt="Tembera"/></a>
-
-<a href="https://github.com/couper117/DENISE"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=couper117&repo=DENISE&theme=tokyonight&hide_border=true" alt="DENISE"/></a>
 <a href="https://github.com/couper117/stockflow"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=couper117&repo=stockflow&theme=tokyonight&hide_border=true" alt="StockFlow"/></a>
-
 <a href="https://github.com/couper117/umuganda"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=couper117&repo=umuganda&theme=tokyonight&hide_border=true" alt="Umuganda"/></a>
+
 <a href="https://github.com/couper117/blood-donation-platform"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=couper117&repo=blood-donation-platform&theme=tokyonight&hide_border=true" alt="Blood Donation"/></a>
 
 <br/><br/>
